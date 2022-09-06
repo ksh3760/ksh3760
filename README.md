@@ -1,12 +1,11 @@
-## 👋 Hi!
-I'm a 😎
+## 👋 Hi there!
 
 <br/>
 
 ## ⚡Skills
 <br/>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=Java&logoColor=white"/>
